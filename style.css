@@ -1,0 +1,57 @@
+body {
+	font-family: 'Reggae One', cursive;
+	font-family: 'Stick', sans-serif;
+	background: #f5dbda;
+}
+
+#logo {
+	height: 100px;
+	width: 200px;
+}
+
+.header {
+	color: white;
+	font-family: 'Yeon Sung';
+	font-size: 45px;
+	letter-spacing: 10px;
+	margin-top: -10px;
+}
+
+.login_div {
+	background: #ffffff;
+	float: none;
+	border-radius: 20px;
+	margin-top: 5%;
+	height: fit-content;
+	text-align: center;
+	padding-top: 10px;
+	width: 80%;
+}
+
+li {
+	font-size: 20px;
+	font-family: 'Reggae One';
+
+}
+
+#h3 {
+	font-size: 50px;
+	font-family: 'Stick';
+}
+
+#flower {
+	height: 200px;
+	width: 300px;
+	border-radius: 15px;
+}
+
+#bullets{
+	float: left;
+	height: 50px;
+	border-radius: 50px;
+}
+
+p{
+	font-size: 20px;
+}
+
